@@ -39,6 +39,10 @@ https://amazonxxx.x.xxx.x.xxx:{port}/fibwin?value=10
 Salida (JSON)
 
 {
+
+
+## INSTRUCCIONES PARA DESPLEGAR EN EC2
+Aqui
   "operation": "Fibonacci con ventana K=3",
   "input": 10,
   "output": "serie: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 | ventana: 2, 4, 6, 10, 16, 26, 42, 68, 110"
